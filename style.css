@@ -1,0 +1,69 @@
+.word{
+    list-style-type: none;
+    display: inline-flex;
+    padding: 10px 10px ;
+    color: green;
+   
+
+    
+}
+#timer-button{
+    width: 90px;
+    height: 40px;
+    background-color:greenyellow;
+    padding: auto auto;
+}
+.word-list-element{
+   background-color:aqua;
+   width: 500px;
+   height: fit-content;
+}
+#countdown{
+    background-color: red;
+    width: fit-content;
+    padding: 3px 3px ;
+    color: wheat;
+}
+#game{
+    background-color:orange; 
+    width: fit-content;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: 500;
+   
+   
+   
+    
+}
+#input{
+
+    height: 35px;
+    background-color:blue;
+    color: white;
+    
+}
+#timer-button:hover{
+   background-color: orangered;
+}
+#total{
+    color: white;
+    background-color: green;
+    width: fit-content;
+    padding: 5px;
+}
+#inputs{
+    height: 35px;
+    background-color:red;
+    color: white;
+
+}
+#add-button{
+    width: 90px;
+    height: 40px;
+    background-color:black;
+    padding: auto auto;
+    color: white;
+    
+    
+
+}
